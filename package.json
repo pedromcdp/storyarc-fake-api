@@ -1,0 +1,12 @@
+{
+  "name": "storyarc-fake-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
