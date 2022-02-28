@@ -185,6 +185,13 @@
   ],
   "users": [
     {
+      "id": "aDyJXilkrSTB4GzjcV7QWYDQlrK2",
+      "name": "Pedro Miguel Pereira",
+      "password": "issoqueriastu",
+      "email": "pedromcdp@gmail.com",
+      "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gh6dfOfIa2bIeA9aMRA1ENG9A36mKbPZFMkr_CCww=s96-c"
+    },
+    {
       "id": 1,
       "name": "Rui Jorge",
       "password": "123",
